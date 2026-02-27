@@ -1,9 +1,5 @@
 # T4n Tech
 
-> **Dari Komunitas, Oleh Komunitas, Untuk Komunitas.**
-
-## Tentang
-
 **T4n Labs** adalah organisasi GitHub dari **T4n Tech**.
 
 T4n Tech berfokus pada pengembangan: **Open-Source**, **Simple** & **Transparant**
