@@ -1,8 +1,6 @@
-# T4n Tech
+# T4n Labs
 
-**T4n Labs** adalah organisasi GitHub dari **T4n Tech**.
-
-T4n Tech berfokus pada pengembangan: **Open-Source**, **Simple** & **Transparant**
+**T4n Labs** adalah organisasi GitHub yang berfokus pada pengembangan: **Open-Source**, **Simple** & **Transparant**
 
 ## Filosofi
 
