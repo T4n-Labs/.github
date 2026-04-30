@@ -9,12 +9,28 @@
 >>> Keep Things Simple
 >>> Menjaga Segala Sesuatu Tetap Sederhana
 ```
-**T4n Labs** focuses on **Open-Source**, **Simple** & **Transparent** development
-
-**T4n Labs** berfokus pada pengembangan **Open-Source**, **Simple** & **Transparant**
 
 <div align="center">
   
-*Simple is not lazy — Simple is intentional.*
+**T4n Labs** berfokus pada pengembangan **Open-Source**, **Simple** & **Transparant**
+
+*Kesederhanaan bukan berarti kemalasan — Kesederhanaan adalah kesengajaan.*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Support T4n Labs 💸
+
+Proyek ini tetap open-source dan gratis untuk semua.
+Dukungan Anda membantu menutup biaya infrastruktur (testing & hosting) agar pengembangan bisa terus berjalan.
+
+Besar atau kecil, setiap kontribusi tetap berarti ❤️
+
+<a href="https://trakteer.id/darske-void" target="_blank">
+  <img src="https://img.shields.io/badge/Trakteer-Donation-red?style=for-the-badge" alt="Trakteer T4n Labs"/>
+  </a>
 
 </div>
