@@ -7,7 +7,7 @@
 
 ```
 >>> Keep Things Simple
->>> Menjaga Segala Sesuatu Tetap Sederhana
+>>> Menjaga Semuanya Tetap Sederhana
 ```
 
 <div align="center">
