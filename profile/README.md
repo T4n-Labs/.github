@@ -16,6 +16,8 @@
 
 *Kesederhanaan bukan berarti kemalasan — Kesederhanaan adalah kesengajaan.*
 
+### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3d0627de-9dc2-4df4-b556-c0ad0ca08217" /> [Gitlab](https://gitlab.com/T4n-Labs)
+
 </div>
 
 ---
