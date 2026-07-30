@@ -33,6 +33,6 @@ Besar atau kecil, setiap kontribusi tetap berarti ❤️
 
 <a href="https://trakteer.id/darske-void" target="_blank">
   <img src="https://img.shields.io/badge/Trakteer-Donation-red?style=for-the-badge" alt="Trakteer T4n Labs"/>
-  </a>
+</a>
 
 </div>
