@@ -12,7 +12,7 @@
 <a href="https://gitlab.com/T4n-Labs" target="_blank">
   <img src="https://img.shields.io/badge/GitLab-T4n--Labs-orange?style=for-the-badge&logo=gitlab" alt="GitLab T4n Labs"/>
 </a>
-<a href="https://discord.gg/dZegVyWmuZ" target="_blank">
+<a href="https://discord.gg/yM5s7RWBxq" target="_blank">
   <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community"/>
 </a>
 
