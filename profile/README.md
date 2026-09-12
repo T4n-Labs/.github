@@ -1,38 +1,34 @@
 <div align="center">
 
 # T4n Labs
+
 **Open-Source · Simple · Transparent**
 
-</div>
+*Keep Things Simple — Menjaga Semuanya Tetap Sederhana*
+*Kesederhanaan bukan berarti kemalasan, kesederhanaan adalah kesengajaan.*
 
-```
->>> Keep Things Simple
->>> Menjaga Semuanya Tetap Sederhana
-```
+### 🌐 Socials & Community
 
-<div align="center">
-  
-**T4n Labs** berfokus pada pengembangan **Open-Source**, **Simple** & **Transparant**
-
-*Kesederhanaan bukan berarti kemalasan — Kesederhanaan adalah kesengajaan.*
-
-### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3d0627de-9dc2-4df4-b556-c0ad0ca08217" /> [Gitlab](https://gitlab.com/T4n-Labs)
-
-</div>
+<a href="https://gitlab.com/T4n-Labs" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-T4n--Labs-orange?style=for-the-badge&logo=gitlab" alt="GitLab T4n Labs"/>
+</a>
+<a href="https://discord.gg/dZegVyWmuZ" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community"/>
+</a>
 
 ---
 
-<div align="center">
-
 ### 🤝 Support T4n Labs 💸
 
-Proyek ini tetap open-source dan gratis untuk semua.
-Dukungan Anda membantu menutup biaya infrastruktur (testing & hosting) agar pengembangan bisa terus berjalan.
+Proyek ini tetap *open-source* dan gratis untuk semua.  
+Dukungan kamu membantu menutup biaya infrastruktur (testing & hosting) agar pengembangan bisa terus berjalan.
 
-Besar atau kecil, setiap kontribusi tetap berarti ❤️
+**Besar atau kecil, setiap kontribusi sangat berarti! ❤️**
+
+<br/>
 
 <a href="https://trakteer.id/darske-void" target="_blank">
-  <img src="https://img.shields.io/badge/Trakteer-Donation-red?style=for-the-badge" alt="Trakteer T4n Labs"/>
+  <img src="https://img.shields.io/badge/Trakteer-Support%20Us-red?style=for-the-badge" alt="Trakteer T4n Labs"/>
 </a>
 
 </div>
