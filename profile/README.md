@@ -29,6 +29,7 @@ Dukungan kamu membantu menutup biaya pengembangan agar terus berjalan.
   <img src="https://img.shields.io/badge/Trakteer-Support%20Us-red?style=for-the-badge" alt="Trakteer T4n Labs"/>
 </a>
 
+<!--
 ### 🚀 Sponsored By
 
 <a href="https://www.blankonlinux.or.id/" target="_blank">
@@ -36,5 +37,6 @@ Dukungan kamu membantu menutup biaya pengembangan agar terus berjalan.
 </a>
 
 **[BlankOn Foundation](https://www.blankonlinux.or.id/)**
+-->
 
 </div>
