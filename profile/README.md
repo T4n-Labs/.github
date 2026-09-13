@@ -25,8 +25,12 @@ Dukungan kamu membantu menutup biaya pengembangan agar terus berjalan.
 
 <br/>
 
-<a href="https://trakteer.id/darske-void" target="_blank">
-  <img src="https://img.shields.io/badge/Trakteer-Support%20Us-red?style=for-the-badge" alt="Trakteer T4n Labs"/>
+<a href="https://kreate.gg/t4nlabs" target="_blank">
+  <img src="https://img.shields.io/badge/Kreate.gg-Support%20Us-purple?style=for-the-badge" alt="Kreate.gg T4n Labs"/>
+</a>
+
+<a href="https://saweria.co/t4nlabs" target="_blank">
+  <img src="https://img.shields.io/badge/Saweria-Support%20Us-red?style=for-the-badge" alt="Saweiria T4n Labs"/>
 </a>
 
 <!--
