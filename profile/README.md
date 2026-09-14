@@ -16,6 +16,14 @@
   <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community"/>
 </a>
 
+<a href="https://www.reddit.com/user/DueZebra6717" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge" alt="Reddit T4n Labs"/>
+</a>
+
+<a href="https://www.instagram.com/t4n_labs" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge" alt="Reddit T4n Labs"/>
+</a>
+
 ### 🤝 Support T4n Labs 💸
 
 Proyek ini tetap *open-source* dan gratis untuk semua.  
@@ -30,17 +38,17 @@ Dukungan kamu membantu menutup biaya pengembangan agar terus berjalan.
 </a>
 
 <a href="https://saweria.co/t4nlabs" target="_blank">
-  <img src="https://img.shields.io/badge/Saweria-Support%20Us-red?style=for-the-badge" alt="Saweiria T4n Labs"/>
+  <img src="https://img.shields.io/badge/Saweria-Support%20Us-red?style=for-the-badge" alt="Saweria T4n Labs"/>
 </a>
 
 <!--
 ### 🚀 Sponsored By
 
-<a href="https://www.blankonlinux.or.id/" target="_blank">
+<a href="https://www.blankon.id/" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/508286?s=200&v=4" width="50" alt="BlankOn Foundation"/>
 </a>
 
-**[BlankOn Foundation](https://www.blankonlinux.or.id/)**
+**[BlankOn Foundation](https://www.blankon.id/)**
 -->
 
 </div>
