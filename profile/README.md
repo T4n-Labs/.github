@@ -9,15 +9,11 @@
 
 ### 🌐 Socials & Community
 
-<a href="https://gitlab.com/T4n-Labs" target="_blank">
+<a href="https://gitlab.com/t4n-labs" target="_blank">
   <img src="https://img.shields.io/badge/GitLab-T4n--Labs-orange?style=for-the-badge&logo=gitlab" alt="GitLab T4n Labs"/>
 </a>
 <a href="https://discord.gg/yM5s7RWBxq" target="_blank">
   <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community"/>
-</a>
-
-<a href="https://www.reddit.com/user/DueZebra6717" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge" alt="Reddit T4n Labs"/>
 </a>
 
 <a href="https://www.instagram.com/t4n_labs" target="_blank">
